@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/1.Single_Inheritance/1.Single_Inheritance.iml" filepath="$PROJECT_DIR$/1.Single_Inheritance/1.Single_Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2.MultilevelInheritance/2.MultilevelInheritance.iml" filepath="$PROJECT_DIR$/2.MultilevelInheritance/2.MultilevelInheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.HierarchicalInheritance/3.HierarchicalInheritance.iml" filepath="$PROJECT_DIR$/3.HierarchicalInheritance/3.HierarchicalInheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4.Calculator(overide)/4.Calculator(overide).iml" filepath="$PROJECT_DIR$/4.Calculator(overide)/4.Calculator(overide).iml" />
+      <module fileurl="file://$PROJECT_DIR$/6.Method Overriding/6.Method Overriding.iml" filepath="$PROJECT_DIR$/6.Method Overriding/6.Method Overriding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7.Polymophism/7.Polymophism.iml" filepath="$PROJECT_DIR$/7.Polymophism/7.Polymophism.iml" />
       <module fileurl="file://$PROJECT_DIR$/JAVA_2_CRIO.iml" filepath="$PROJECT_DIR$/JAVA_2_CRIO.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Single_Inheritance/Single_Inheritance.iml" filepath="$PROJECT_DIR$/Single_Inheritance/Single_Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/abstraction/abstraction.iml" filepath="$PROJECT_DIR$/abstraction/abstraction.iml" />
     </modules>
   </component>
 </project>

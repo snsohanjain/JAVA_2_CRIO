@@ -1,15 +1,10 @@
 package com.sohan;
 
-public class method {
-
-    public void methodA()  {
-        System.out.println("Base class method");
-    }
+public class B extends A{
 
     public void methodB()
     {
         System.out.println("Child class method");
 
     }
-
 }
